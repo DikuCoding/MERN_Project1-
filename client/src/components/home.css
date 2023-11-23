@@ -1,0 +1,16 @@
+.home-page{
+    padding-top: 30vh;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.home-div p{
+    color: rgb(41, 41, 212);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+.home-div h1{
+    color: rgb(16, 16, 27);
+    font-style: bold;
+    text-shadow: 4px 4px 9px ;
+}

@@ -1,0 +1,3 @@
+PW: Universe123
+
+mongodb+srv://dikeshkhagi1:<password>@cluster0.xlfwooq.mongodb.net/?retryWrites=true&w=majority
